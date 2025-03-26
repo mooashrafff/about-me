@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed AShraf</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ashraf</h1>
 <h3 align="center">A passionate frontend developer with a strong foundation in HTML, CSS, JavaScript, and React. I love crafting modern, responsive, and user-friendly web experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mooashraff&label=Profile%20views&color=0e75b6&style=flat" alt="mooashraff" /> </p>
